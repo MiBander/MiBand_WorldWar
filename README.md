@@ -71,7 +71,7 @@ AstroBox 率先发出和解书：
 ### 起因
 [Velvetine的地图](https://github.com/Velvetine13245/WristMap)，其背后为腾讯+高德地图API
 
-与另一位疑似登记版权的[Ning Map](https://nsof.top/resource.php?id=52)高度相似，其背后皆高德地图API
+与另一位登记版权的[Ning Map](https://nsof.top/resource.php?id=52)高度相似，其背后皆高德地图API
 
 #### 时间轴
 * `2026 08/29 14:17`：NanoShell 发送了律师函
