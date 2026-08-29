@@ -69,7 +69,8 @@ AstroBox 率先发出和解书：
 ### 时间
 `2026 08/29` ~ `现在`
 ### 起因
-[Velvetine的地图](https://github.com/Velvetine13245/WristMap)与另一位疑似登记版权用来圈钱的[Ning Map](https://nsof.top/resource.php?id=52)高度相似，其背后皆为高德地图API
+[Velvetine的地图](https://github.com/Velvetine13245/WristMap)，其背后为腾讯地图API
+与另一位疑似登记版权的[Ning Map](https://nsof.top/resource.php?id=52)高度相似，其背后皆高德地图API
 
 #### 时间轴
 * `2026 08/29 14:17`：NanoShell 发送了律师函
