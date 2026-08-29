@@ -72,4 +72,4 @@ AstroBox 率先发出和解书：
 #### 时间轴
 * `2026 08/29 14:17`：NanoShell 发送了律师函
 > 关于侵权Ning Map的问题，我们已正式委托律师事务所展开处理，对于这种行为，我们必定严肃处理 后续将给所有用户一个交代，再次感谢各位用户对我们的支持！
-> [律师函警告](https://github.com/user-attachments/assets/ae5f6123-c2d5-4663-9613-d5ef7075aadc)
+> ![律师函警告](https://github.com/user-attachments/assets/ae5f6123-c2d5-4663-9613-d5ef7075aadc)
