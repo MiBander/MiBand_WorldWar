@@ -63,4 +63,8 @@ AstroBox 率先发出和解书：
 #### 2. 快应用破解
 于`2026 7/20`前后，有人发现小米手环的`JSC`加密其实就是[2021 3月27日的quickjs](https://github.com/zeroli/quickjs-2021-03-27-annotation)，此人宣称可找他代购，就在后一天，Y社发布了一篇[帖子](https://pd.qq.com/s/78pf61bvk?b=2)，然后当事人就变成`AI黑客`的代名词了
 ## 关于三战 ⟪地图快应用版权⟫
-高德：授权了吗就用我API
+[高德：授权了吗就用我API赚钱](https://lbs.amap.com/pages/terms/)
+### 时间
+`2026 08/29` ~ `现在`
+### 起因
+[Velvetine的地图](https://github.com/Velvetine13245/WristMap)与另一位疑似登记版权用来圈钱的[Ning Map](https://nsof.top/resource.php?id=52)高度相似，其背后皆为高德地图API
